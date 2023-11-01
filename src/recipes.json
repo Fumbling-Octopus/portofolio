@@ -1,0 +1,22 @@
+{
+  "foods": [
+    {
+      "name": "Pasta",
+      "ingredients": ["Spaghetti", "Miso", "Seaweeds Snacks", "Parmesan"],
+      "nutrients": ["Protein"],
+      "type": "Breakfast"
+    },
+    {
+      "name": "Pizza",
+      "ingredients": ["Dough", "Tomato Sauce", "Cheddar Cheese", "Mozarella Cheese"],
+      "nutrients": ["Vitamin C"],
+      "type": "Lunch"
+    },
+    {
+      "name": "Salmon",
+      "ingredients": ["Honey", "Butter", "Sugar", "Soy Sauce", "Lemon", "Mayonnaise", "Green Beans"],
+      "nutrients": ["Vitamin A"],
+      "type": "Dinner"
+    }
+  ]
+}
