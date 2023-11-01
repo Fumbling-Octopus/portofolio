@@ -1,0 +1,1 @@
+This app is going to record each user daily meal, including the ingredients and nutrients. Including search function to filter out the data.
